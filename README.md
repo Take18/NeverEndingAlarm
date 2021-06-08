@@ -1,4 +1,4 @@
-# neverEndingAlarm
+# NeverEndingAlarm
 
 ## 概要
 このPythonプログラムは、私のようにどうしても朝起きられない人を強制的に起こすためのプログラムである。<br>
